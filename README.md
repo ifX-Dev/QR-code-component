@@ -1,3 +1,3 @@
-# QR Card Component
+# Frontend Mentor - Challenge 4(Easy)
 
-A frontend mentor task built with React + Vite and Tailwind CSS for practice.
+A QR Card Component built with React + Vite and Tailwind CSS.
